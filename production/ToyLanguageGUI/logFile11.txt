@@ -1,0 +1,1210 @@
+-------------------------
+Execution Stack:
+v = 10;
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+
+;
+ID: 10
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 );
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 );
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ );
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ );
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1;
+lockExit( 1);
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1;
+lockExit( 1);
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockExit( 1);
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+;
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+
+;
+ID: 10
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 )
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 );
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 );
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ )
+Print: v + 1
+lockExit( 1)
+
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ );
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+ );
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1
+lockExit( 1)
+;
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1;
+lockExit( 1);
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v + 1;
+lockExit( 1);
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 20;;
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+;
+ID: 11
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockExit( 1);
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+;
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockExit( 1);
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 )
+Print: v
+lockExit( 1)
+
+;
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 );
+Print: v
+lockExit( 1)
+;
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockEnter( 1 );
+Print: v
+lockExit( 1)
+;
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+lockExit( 1)
+;
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+lockExit( 1)
+;
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+lockExit( 1);
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+lockExit( 1);
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+20
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockExit( 1);
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+20
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+20
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+lockExit( 1);
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+20
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 10
+Lookup Table:
+v -> 10
+Heap :
+Output:
+10
+11
+20
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 11
+Lookup Table:
+v -> 20
+Heap :
+Output:
+10
+11
+20
+File table:
+-------------------------

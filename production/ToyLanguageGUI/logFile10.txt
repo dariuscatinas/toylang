@@ -1,0 +1,644 @@
+-------------------------
+Execution Stack:
+v = 10;
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+
+;
+ID: 9
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+new( a ,22 );;
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+;
+ID: 9
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+
+;
+ID: 9
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 10;;
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+new( a ,22 );
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+
+;
+ID: 9
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+new( a ,22 );;
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+;
+ID: 9
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+new( a ,22 );;
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+;
+ID: 9
+Lookup Table:
+v -> 10
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ )
+Print: v
+Print: *a
+
+;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ );
+Print: v
+Print: *a
+;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+fork( *a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+ );
+Print: v
+Print: *a
+;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+Print: *a
+;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+*a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+Print: *a
+;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+*a = 30;
+v = 32;
+Print: v
+Print: *a
+
+
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+Print: *a;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+*a = 30;;
+v = 32;
+Print: v
+Print: *a
+
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v;
+Print: *a;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+*a = 30;;
+v = 32;
+Print: v
+Print: *a
+
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 22
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: *a;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 32;
+Print: v
+Print: *a
+
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: *a;
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 32;
+Print: v
+Print: *a
+
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+30
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 32;;
+Print: v
+Print: *a
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+30
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+30
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+v = 32;;
+Print: v
+Print: *a
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+30
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 9
+Lookup Table:
+a -> 1
+v -> 10
+Heap :
+1 -> 30
+Output:
+10
+30
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: v
+Print: *a
+;
+ID: 10
+Lookup Table:
+a -> 1
+v -> 32
+Heap :
+1 -> 30
+Output:
+10
+30
+File table:
+-------------------------

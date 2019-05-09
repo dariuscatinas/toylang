@@ -1,0 +1,658 @@
+-------------------------
+Execution Stack:
+open(var_f , test.in)
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+open(var_f , test.in);
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+open(var_f , test.in);
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c);
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c);
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c;
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c;
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0;
+close(var_f );
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0;
+close(var_f );
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+close(var_f );
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+open(var_f , test.in)
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+open(var_f , test.in);
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+open(var_f , test.in);
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+;
+ID: 0
+Lookup Table:
+Heap :
+Output:
+File table:
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c)
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c);
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c);
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c;
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c;
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0
+close(var_f )
+;
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+If ( var_c )
+	then: read(var_f, var_c)
+Print: var_c
+
+else: Print: 0;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c)
+Print: var_c
+;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c)
+Print: var_c
+;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c);
+Print: var_c;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+read(var_f, var_c);
+Print: var_c;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 15
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 50
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+Print: var_c;
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 50
+Heap :
+Output:
+15
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 50
+Heap :
+Output:
+15
+50
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+close(var_f );
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 50
+Heap :
+Output:
+15
+50
+File table:
+0 -> test.in
+-------------------------
+-------------------------
+Execution Stack:
+ID: 0
+Lookup Table:
+var_f -> 0
+var_c -> 50
+Heap :
+Output:
+15
+50
+File table:
+-------------------------
